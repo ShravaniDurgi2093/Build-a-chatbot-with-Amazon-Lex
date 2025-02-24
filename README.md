@@ -1,4 +1,5 @@
 # Build-a-chatbot-with-Amazon-Lex
+This is project 1 of AI and AWS five series projects
 
 Amazon Lex:
 ✔ Easily add AI that understands intent, maintains context, and automates simple tasks across many languages.
